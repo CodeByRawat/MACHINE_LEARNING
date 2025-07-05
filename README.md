@@ -171,4 +171,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/shsarv/Machi
 
 **Sachin Rawat**  
 [GitHub – CodeByRawat](https://github.com/CodeByRawat)  
-Machine Learning, Computer Vision, and GIS
+Machine Learning, Computer Vision, and Geospatial Analysis (GIS)
