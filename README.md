@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Machine Learning Projects</h1>
-  <img alt="GIF" src="Resources/banner.gif" />
+  <img alt="GIF" src="Resources/AIBANNER.gif" />
 </div>
 
 <p align="center">
